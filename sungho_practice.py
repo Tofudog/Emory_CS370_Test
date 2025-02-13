@@ -1,1 +1,0 @@
-print("Third practice with git")
